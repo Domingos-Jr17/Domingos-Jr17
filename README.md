@@ -14,7 +14,7 @@
 
 - 🎓 Estudante de Engenharia Civil pela Universidade Eduardo Mondlane (2º ano)
 - 💻 FullStack Developer em formação na Byte For You (Aga Khan & Município de Maputo)
-- 🔭 Atualmente trabalhando no projeto [Ku Thola](https://github.com/domingostimane/ku-thola)
+- 🔭 Atualmente trabalhando no projeto [Ku Thola](https://github.com/Domingos-Jr17/ku_Thola)
 - 🌱 Estudando **React**, **Node.js**, **MongoDB**, **UI/UX Design**
 - ♟️ Professor de Xadrez no Colégio Wisdom | Apaixonado por lógica, estratégia e ensino
 - 💡 Empreendedor com foco em soluções tecnológicas para a construção civil e educação em África
@@ -37,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Domingos-Jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos-Jr17&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domingos-jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-jr17&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" width="350" />
 </p>
 
 ---
@@ -47,22 +47,22 @@
 
 #### 🚀 Inovação Urbana & Impacto Social
 
-- 🎯 [**MoCity+**](https://github.com/domingostimane/mocity-plus) — Plataforma urbana para jovens de Moçambique
-- 💼 [**Ku Thola**](https://github.com/domingostimane/ku-thola) — Sistema digital de recrutamento com upload de CV
+- 🎯 [**MoCity+**](https://github.com/LucoVilanculos/MoCity) — Plataforma urbana para jovens de Moçambique
+- 💼 [**Ku Thola**](https://github.com/Domingos-Jr17/ku_Thola) — Sistema digital de recrutamento com upload de CV
 
 #### 🎧 Música e Dados
 
-- 🧠 [**Spotidados**](https://github.com/domingostimane/spotidados) — Aplicação para visualização de hábitos no Spotify com React Native
+- 🧠 [**Spotidados**](https://github.com/Domingos-Jr17/spotidados-project-g1) — Aplicação para visualização de hábitos no Spotify com React Native
 
 ---
 
 ### 🧰 Outras Competências
 
-- **Front-End**: HTML5, CSS3, JavaScript, Next
+- **Front-End**: HTML5, CSS3, JavaScript, TypeScript, React  
 - **Back-End**: Node.js, Express  
 - **Versionamento**: Git, GitHub  
 - **Layout & Responsividade**: Flexbox, Grid, Mobile-first  
-- **Ferramentas de Desenvolvimento**: VS Code,  Canva  
+- **Ferramentas de Desenvolvimento**: VS Code, Figma, Canva  
 - **Modelação 3D e BIM**: AutoCAD, ArchiCAD, SketchUp, Twinmotion, Lumion  
 - **Gestão de Projetos**: Microsoft Project  
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-![Gráfico de atividades do GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=Domingos-Jr17&theme=github-compact)
+![Gráfico de atividades do GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=domingos-jr17&theme=github-compact)
 
 </div>
 
