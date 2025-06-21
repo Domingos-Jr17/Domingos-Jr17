@@ -1,13 +1,11 @@
-<h1 align="center">Olá 👋, eu sou <strong>Domingos Alfredo Timane Júnior</strong> (aka Sognimod)</h1>
-<h3 align="center">Desenvolvedor Fullstack | Estudante de Engenharia Civil | Empreendedor</h3>
+# Olá 👋, eu sou **Domingos Alfredo Timane Júnior** (aka Sognimod)
+### Desenvolvedor Fullstack | Estudante de Engenharia Civil | Empreendedor
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/domingos-alfredo-timane-júnior-8b108626/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:domingosalfredotimane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingos-alfredo-8b108626b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domingosalfredotimane@gmail.com)
+
 </p>
 
 ---
@@ -20,7 +18,7 @@
 - 🌱 Estudando **React**, **Node.js**, **MongoDB**, **UI/UX Design**
 - ♟️ Professor de Xadrez no Colégio Wisdom | Apaixonado por lógica, estratégia e ensino
 - 💡 Empreendedor com foco em soluções tecnológicas para a construção civil e educação em África
-- 📫 Email: **domingosalfredotimane@gmail.com**
+- 📫 Email: **<domingosalfredotimane@gmail.com>**
 
 ---
 
@@ -39,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domingostimane&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingostimane&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Domingos-Jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos-Jr17&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" width="350" />
 </p>
 
 ---
@@ -58,19 +56,25 @@
 
 ---
 
-### 🧰 Outras Skills
+### 🧰 Outras Competências
 
-- ArchiCAD, Revit, CypeCAD, Twinmotion, Lumion  
-- Power BI, Excel Avançado  
-- Git e versionamento colaborativo  
+- **Front-End**: HTML5, CSS3, JavaScript, Next
+- **Back-End**: Node.js, Express  
+- **Versionamento**: Git, GitHub  
+- **Layout & Responsividade**: Flexbox, Grid, Mobile-first  
+- **Ferramentas de Desenvolvimento**: VS Code,  Canva  
+- **Modelação 3D e BIM**: AutoCAD, ArchiCAD, SketchUp, Twinmotion, Lumion  
+- **Gestão de Projetos**: Microsoft Project  
 
 ---
 
 ### 🎬 Um toque especial com animações
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=domingostimane&theme=github-compact" />
-</p>
+<div align="center">
+
+![Gráfico de atividades do GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=Domingos-Jr17&theme=github-compact)
+
+</div>
 
 ---
 
