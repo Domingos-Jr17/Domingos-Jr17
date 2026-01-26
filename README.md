@@ -1,4 +1,4 @@
-# Olá 👋, eu sou **Domingos A. Timane Júnior** (aka Sognimod)
+# Olá 👋, eu sou **Domingos A. Timane Júnior**
 ### Desenvolvedor Fullstack | Estudante de Engenharia Civil | Empreendedor
 
 <p align="center">
