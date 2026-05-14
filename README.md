@@ -1,4 +1,4 @@
-# Olá 👋, eu sou **Domingos A. Timane Júnior**
+# Olá 👋, eu sou **Domingos Timane Jr**
 ### Desenvolvedor Fullstack | Estudante de Engenharia Civil | Empreendedor
 
 <p align="center">
