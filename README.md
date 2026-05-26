@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&text=Domingos%20Timane%20Jr&height=200&section=header&fontSize=45&fontColor=fff&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder%20from%20Mozambique&descSize=16&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&text=Domingos%20Timane%20Jr&height=200&section=header&fontSize=45&fontColor=fff&animation=fadeIn&d=5000)
 
 <p align="center">
   <a href="./README.pt.md">🇲🇿 Ler em Português</a>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Civil+Engineering+Student+%F0%9F%8F%97%EF%B8%8F;Building+solutions+for+Africa+%F0%9F%8C%8D;Start+first.+Improve+later.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Building+Tech+for+Africa+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Hack Saúde**](https://github.com/Domingos-Jr17/hack-saude) | AI solution applied to public health in Mozambique | Python, TypeScript |
-| [**Maputo Mobility 2025**](https://github.com/Domingos-Jr17/2025-maputo-mobility-prediction-hackathon-powered-by-yango20250909-4999-1n9o0z7--1-) | Urban mobility prediction with ML (Yango Hackathon) | Python, Jupyter Notebook |
+| [**Maputo Mobility 2025**](https://github.com/Domingos-Jr17/2025-maputo-mobility-prediction-hackathon-powered-by-yango20250909-4999-1n9o0z7--1-) | Urban mobility prediction with ML (Yango Hackathon) | Python, ML |
 | [**StreamViz Dashboard**](https://github.com/Domingos-Jr17/StreamViz-Dashboard) | Real-time data visualization dashboard | TypeScript |
 
 #### 🌍 Social Innovation
@@ -163,8 +163,8 @@ OS      › Windows + WSL2
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domingos-jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-jr17&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domingos-jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0&rank_icon=github" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-jr17&layout=compact&langs_count=7&theme=radical&cache_seconds=0" alt="Top Languages" width="350" />
 </p>
 
 <p align="center">
