@@ -136,10 +136,27 @@
 
 ---
 
+### 🛠️ Setup Diário
+
+```
+Editor  › Zed  +  Claude Code  +  Opencode
+Runtime › Bun  +  Node.js
+Database› psql  +  Prisma Studio
+Shell   › bash / zsh
+OS      › Windows + WSL2
+```
+
+---
+
+<!-- WAKATIME STATS — descomenta quando quiseres ativar
+     Requisitos: secrets WAKATIME_API_KEY + GH_TOKEN no repo
+     Workflow: .github/workflows/waka-readme.yml
+
 ### 📊 Estatísticas de Desenvolvimento Semanal
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-- >
+<!--END_SECTION:waka-- >
+-->
 
 ---
 
@@ -172,16 +189,22 @@
 
 ---
 
-### 🧰 Outras Competências
+<details>
+<summary>🧰 Competências Completas (clica para expandir)</summary>
+
+<br/>
 
 **Front-End**: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Flexbox, Grid, Mobile-first  
 **Back-End**: Node.js, Fastify, Express, Bun  
 **ORM & Auth**: Prisma, NextAuth, Clerk, Zod  
 **Base de Dados**: PostgreSQL, MongoDB, Supabase, Redis  
-**DevOps**: Docker, Git, GitHub  
+**Tempo Real**: Socket.io  
+**DevOps**: Docker, Git, GitHub, GitHub Actions  
 **IA & Dados**: Python, Jupyter Notebook, Claude API, Machine Learning  
 **Modelação 3D e BIM**: AutoCAD, ArchiCAD, SketchUp, Twinmotion, Lumion  
 **Gestão de Projetos**: Microsoft Project, Figma, Canva  
+
+</details>
 
 ---
 
