@@ -1,16 +1,27 @@
-# Olá 👋, eu sou **Domingos Timane Jr**
-### Desenvolvedor Fullstack & AI Engineer | Estudante de Engenharia Civil | Empreendedor
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingos-alfredo-8b108626b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domingosalfredotimane@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Domingos-Jr17)
-
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&text=Domingos%20Timane%20Jr&height=200&section=header&fontSize=45&fontColor=fff&animation=fadeIn&desc=Desenvolvedor%20Fullstack%20%7C%20AI%20Engineer%20%7C%20Builder%20de%20Mo%C3%A7ambique&descSize=16&descAlignY=75&descAlign=50)
 
 <p align="center">
   <a href="./README.md">🇬🇧 Read in English</a>
+  &nbsp;•&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=domingos-jr17&label=Visitas%20ao%20perfil&color=blueviolet&style=flat" alt="visitas" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/domingos-alfredo-8b108626b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:domingosalfredotimane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Domingos-Jr17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Estudante+de+Eng.+Civil+%F0%9F%8F%97%EF%B8%8F;A+construir+solu%C3%A7%C3%B5es+para+%C3%81frica+%F0%9F%8C%8D;Primeiro+come%C3%A7a.+Depois+melhora.+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -86,7 +97,7 @@
 |---------|-----------|-------|
 | [**Ninteku EduCore**](https://github.com/Domingos-Jr17/ninteku_educore) | Plataforma educacional com base de dados relacional | TypeScript, PostgreSQL |
 | [**Colégio Wisdom**](https://github.com/Domingos-Jr17/Colegio_wisdom) | Website institucional para escola de ensino privado | TypeScript, React |
-| [**Appto**](https://github.com/Domingos-Jr17/appto) | Aplicação fullstack com autenticação e PostgreSQL | TypeScript, PLpgSQL, Docker |
+| [**Appto**](https://github.com/Domingos-Jr17/appto) | Aplicação fullstack com auth, backend Fastify e PostgreSQL | TypeScript, Fastify, PLpgSQL, Docker |
 
 #### 🤖 IA & Dados
 
@@ -125,15 +136,38 @@
 
 ---
 
+### 📊 Estatísticas de Desenvolvimento Semanal
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domingos-jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-jr17&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domingos-jr17&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" alt="Estatísticas do GitHub" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-jr17&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" alt="Linguagens mais usadas" width="350" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=domingos-jr17&theme=radical" alt="GitHub Streak" width="450" />
+</p>
+
+---
+
+### 🏅 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=domingos-jr17&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Snake de Contribuições
+
+<p align="center">
+  <img src="https://github.com/Domingos-Jr17/Domingos-Jr17/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
@@ -151,12 +185,6 @@
 
 ---
 
-<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
 
-![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=domingos-jr17&theme=github-compact)
-
-</div>
-
----
-
-> *"Primeiro começa. Depois melhora."*
+<p align="center"><i>"Primeiro começa. Depois melhora."</i></p>
