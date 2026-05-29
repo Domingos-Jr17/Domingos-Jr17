@@ -176,7 +176,7 @@ OS      › Windows + WSL2
 ### 🏅 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=domingos-jr17&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=domingos-jr17&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
 ---
