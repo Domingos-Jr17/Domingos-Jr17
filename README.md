@@ -189,6 +189,14 @@ OS      › Windows + WSL2
 
 ---
 
+### 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+---
+
 <details>
 <summary>🧰 Full Skill Set (click to expand)</summary>
 

@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -16,12 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: domingos-jr17
-          SETTING_JSON: |
-            {
-              "username": "domingos-jr17",
-              "type": "nightblue",
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg"
-            }
 
       - name: Commit and push 3D graph
         run: |

@@ -189,6 +189,14 @@ OS      › Windows + WSL2
 
 ---
 
+### 📊 Gráfico 3D de Contribuições
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="gráfico 3D de contribuições" />
+</p>
+
+---
+
 <details>
 <summary>🧰 Competências Completas (clica para expandir)</summary>
 
