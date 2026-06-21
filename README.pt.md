@@ -173,6 +173,11 @@ OS      › Windows + WSL2
 
 ---
 
+<!-- TROFÉUS — temporariamente desativado
+     O serviço público github-profile-trophy.vercel.app está globalmente desligado
+     (HTTP 402 DEPLOYMENT_DISABLED — falha para todos os utilizadores). Descomenta
+     quando voltar, ou auto-hospeda o serviço na tua própria conta Vercel.
+
 ### 🏅 Troféus
 
 <p align="center">
@@ -180,6 +185,7 @@ OS      › Windows + WSL2
 </p>
 
 ---
+-->
 
 ### 🐍 Snake de Contribuições
 

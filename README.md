@@ -173,6 +173,11 @@ OS      › Windows + WSL2
 
 ---
 
+<!-- TROPHIES — temporarily disabled
+     The public github-profile-trophy.vercel.app service is globally down
+     (HTTP 402 DEPLOYMENT_DISABLED — fails for all users). Uncomment when it
+     recovers, or self-host the service on your own Vercel account.
+
 ### 🏅 Trophies
 
 <p align="center">
@@ -180,6 +185,7 @@ OS      › Windows + WSL2
 </p>
 
 ---
+-->
 
 ### 🐍 Contribution Snake
 
