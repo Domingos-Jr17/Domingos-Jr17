@@ -151,6 +151,80 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 547.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,368 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1455 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                3787 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
+🌃 Evening                2693 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌙 Night                  882 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1578 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Tuesday                  820 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Wednesday                1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Thursday                 1109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Friday                   1542 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Saturday                 1171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Sunday                   1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               35 repos            ██████████████████░░░░░░░   72.92 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/09/2026 14:46:40 UTC
 <!--END_SECTION:waka-->
 
 ---
