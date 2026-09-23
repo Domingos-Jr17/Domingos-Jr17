@@ -148,15 +148,10 @@ OS      › Windows + WSL2
 
 ---
 
-<!-- WAKATIME STATS — descomenta quando quiseres ativar
-     Requisitos: secrets WAKATIME_API_KEY + GH_TOKEN no repo
-     Workflow: .github/workflows/waka-readme.yml
-
 ### 📊 Estatísticas de Desenvolvimento Semanal
 
-<!--START_SECTION:waka-- >
-<!--END_SECTION:waka-- >
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
