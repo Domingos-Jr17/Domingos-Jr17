@@ -151,13 +151,17 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2038%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 548.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,443 Contributions in the Year 2026
+> 🏆 1,444 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -165,6 +169,68 @@ OS      › Windows + WSL2
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1592 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+🌆 Daytime                4224 commits        ███████████░░░░░░░░░░░░░░   43.74 % 
+🌃 Evening                2901 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌙 Night                  941 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1769 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Tuesday                  873 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Wednesday                1308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Thursday                 1183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   1661 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Sunday                   1586 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 9 mins        ████████████████████░░░░░   79.28 % 
+Bash                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Claude Code              3 hrs 59 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+appto-grad               3 hrs 59 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 59 mins (100.0%)
+
+✍️ 1,066 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,204,055 Input Tokens, 99,335 Output Tokens
+
+💵 $34.81 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 25 AI Prompts
+
+Opus                     1,107 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,509 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -182,7 +248,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 03:15:04 UTC
+ Last Updated on 25/09/2026 03:31:54 UTC
 <!--END_SECTION:waka-->
 
 ---
