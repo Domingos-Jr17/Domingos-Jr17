@@ -151,13 +151,17 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2032%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 548.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,445 Contributions in the Year 2026
+> 🏆 1,446 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -170,7 +174,7 @@ OS      › Windows + WSL2
 ```text
 🌞 Morning                1592 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 🌆 Daytime                4224 commits        ███████████░░░░░░░░░░░░░░   43.73 % 
-🌃 Evening                2902 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌃 Evening                2903 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
 🌙 Night                  941 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -180,8 +184,8 @@ Monday                   1769 commits        █████░░░░░░�
 Tuesday                  873 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 Wednesday                1308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Thursday                 1183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Friday                   1662 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Saturday                 1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Friday                   1662 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 1279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 Sunday                   1586 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 ```
 
@@ -190,47 +194,47 @@ Sunday                   1586 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 50 mins      ██████████████░░░░░░░░░░░   57.13 % 
-Markdown                 4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Image (png)              1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               15 hrs 38 mins      ███████████████░░░░░░░░░░   61.20 % 
+Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Other                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Image (png)              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Claude Code              31 hrs 10 mins      █████████████████████████   99.83 % 
-ZCode                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              25 hrs 33 mins      █████████████████████████   99.99 % 
+ZCode                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-appto-grad               28 hrs 16 mins      ███████████████████████░░   90.53 % 
-vizipedia-tower-defence  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-vizipedia                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-TIMANE                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-vizipedia-games-server   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+appto-grad               21 hrs 23 mins      █████████████████████░░░░   83.67 % 
+vizipedia-tower-defence  3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+vizipedia                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TIMANE                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+vizipedia-games-server   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 25 hrs 33 mins (100.0%)
 
-✍️ 29,442 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 31,207 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 49,041,410 Input Tokens, 3,568,329 Output Tokens
+🔤 23,380,865 Input Tokens, 2,658,372 Output Tokens
 
-💵 $2826.43 Estimated AI Cost This Week
+💵 $1692.71 Estimated AI Cost This Week
 
-🧠 94 AI Sessions, 267 AI Prompts
+🧠 42 AI Sessions, 192 AI Prompts
 
-Opus                     19,369 lines        ████████████████░░░░░░░░░   65.35 % 
-ZCode                    5,058 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Mimo                     2,475 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Deepseek                 2,133 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Spark                    603 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Opus                     21,154 lines        █████████████████░░░░░░░░   67.36 % 
+ZCode                    5,039 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Mimo                     2,475 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Deepseek                 2,133 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Spark                    603 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,618 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 16,537 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -251,7 +255,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 03:38:09 UTC
+ Last Updated on 27/09/2026 03:47:02 UTC
 <!--END_SECTION:waka-->
 
 ---
