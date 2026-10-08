@@ -151,17 +151,17 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 566.0 kB Used in GitHub's Storage 
+> 📦 566.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,584 Contributions in the Year 2026
+> 🏆 1,596 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -172,21 +172,21 @@ OS      › Windows + WSL2
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1813 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌆 Daytime                4751 commits        ███████████░░░░░░░░░░░░░░   43.89 % 
-🌃 Evening                3234 commits        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌙 Night                  1028 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+🌞 Morning                1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                5205 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
+🌃 Evening                3454 commits        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌙 Night                  1093 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2058 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Tuesday                  935 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Wednesday                1465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Thursday                 1306 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Friday                   1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Saturday                 1426 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   1802 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Monday                   2268 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Tuesday                  988 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Wednesday                1631 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 1393 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Friday                   1956 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Saturday                 1533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Sunday                   1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 ```
 
 
@@ -194,42 +194,42 @@ Sunday                   1802 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Other                    2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Other                    3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+TypeScript               2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+JavaScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Python                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 37 mins       █████████████████████████   100.00 % 
+Claude Code              10 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vizipedia-tower-defence  3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-appto-grad               3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.65 % 
-maailines                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-vizipedia                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-incub                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+appto-grad               5 hrs 5 mins        █████████████░░░░░░░░░░░░   50.40 % 
+vizipedia-tower-defence  3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+maailines                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+vizipedia                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+incub                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 5 mins (100.0%)
 
-✍️ 6,071 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,941 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,802,294 Input Tokens, 829,913 Output Tokens
+🔤 9,213,292 Input Tokens, 804,911 Output Tokens
 
-💵 $163.24 Estimated AI Cost This Week
+💵 $158.08 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 78 AI Prompts
+🧠 17 AI Sessions, 81 AI Prompts
 
-Opus                     6,256 lines         █████████████████████████   99.22 % 
-Sonnet                   49 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Opus                     6,177 lines         █████████████████████████   99.21 % 
+Sonnet                   49 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
+📄 Detailed Prompter — average 626 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -251,7 +251,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 04:25:54 UTC
+ Last Updated on 08/10/2026 04:37:21 UTC
 <!--END_SECTION:waka-->
 
 ---
