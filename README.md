@@ -161,7 +161,7 @@ OS      › Windows + WSL2
 
 > 📦 568.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,601 Contributions in the Year 2026
+> 🏆 1,602 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -173,20 +173,20 @@ OS      › Windows + WSL2
 
 ```text
 🌞 Morning                1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌆 Daytime                5221 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
-🌃 Evening                3467 commits        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+🌆 Daytime                5221 commits        ███████████░░░░░░░░░░░░░░   44.39 % 
+🌃 Evening                3468 commits        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
 🌙 Night                  1102 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2268 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Monday                   2268 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 Tuesday                  991 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 Wednesday                1636 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 Thursday                 1411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Friday                   1966 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 Saturday                 1535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Sunday                   1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Sunday                   1954 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 ```
 
 
@@ -194,43 +194,47 @@ Sunday                   1953 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
-Other                    1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+TypeScript               2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+Other                    1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 51 mins       █████████████████████████   100.00 % 
+Claude Code              5 hrs 41 mins       █████████████████████░░░░   85.89 % 
+Opencode Cli             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+OpenCode                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🐱‍💻 Projects: 
-appto-grad               5 hrs 5 mins        ██████████████████████░░░   86.80 % 
-vizipedia-tower-defence  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-incub                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-vizipedia                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+appto-grad               4 hrs 55 mins       ███████████████████░░░░░░   74.22 % 
+binario                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+vizipedia-tower-defence  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+incub                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+vizipedia                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 37 mins (100.0%)
 
-✍️ 3,505 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,743 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,458,928 Input Tokens, 481,244 Output Tokens
+🔤 4,661,883 Input Tokens, 544,641 Output Tokens
 
-💵 $105.23 Estimated AI Cost This Week
+💵 $127.54 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 63 AI Prompts
+🧠 11 AI Sessions, 67 AI Prompts
 
-Opus                     4,027 lines         █████████████████████████   100.00 % 
+Opus                     4,027 lines         ████████████████████████░   94.42 % 
+DeepSeek                 238 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 558 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -251,7 +255,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 04:07:00 UTC
+ Last Updated on 12/10/2026 04:27:15 UTC
 <!--END_SECTION:waka-->
 
 ---
