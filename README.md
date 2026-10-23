@@ -151,17 +151,17 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 698.4 kB Used in GitHub's Storage 
+> 📦 699.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,615 Contributions in the Year 2026
+> 🏆 1,616 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -173,8 +173,8 @@ OS      › Windows + WSL2
 
 ```text
 🌞 Morning                1998 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-🌆 Daytime                5243 commits        ███████████░░░░░░░░░░░░░░   44.20 % 
-🌃 Evening                3510 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌆 Daytime                5243 commits        ███████████░░░░░░░░░░░░░░   44.19 % 
+🌃 Evening                3511 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
 🌙 Night                  1112 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -183,7 +183,7 @@ OS      › Windows + WSL2
 Monday                   2288 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 Tuesday                  997 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 Wednesday                1644 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Thursday                 1424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 Friday                   1985 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 Saturday                 1549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 Sunday                   1976 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
@@ -254,7 +254,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 03:24:17 UTC
+ Last Updated on 23/10/2026 03:29:05 UTC
 <!--END_SECTION:waka-->
 
 ---
