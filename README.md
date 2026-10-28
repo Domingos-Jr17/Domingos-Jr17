@@ -151,17 +151,17 @@ OS      › Windows + WSL2
 ### 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 701.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,622 Contributions in the Year 2026
+> 🏆 1,623 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -169,6 +169,75 @@ OS      › Windows + WSL2
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1998 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌆 Daytime                5243 commits        ███████████░░░░░░░░░░░░░░   44.17 % 
+🌃 Evening                3515 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌙 Night                  1113 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2288 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  999 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Wednesday                1644 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Friday                   1986 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Saturday                 1550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   1977 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+TypeScript               4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Markdown                 4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+
+🔥 Editors: 
+Claude Code              19 hrs 34 mins      ███████████████████████░░   91.42 % 
+Opencode Cli             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+OpenCode                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+
+🐱‍💻 Projects: 
+vizipedia-infinite-runner7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+binario                  5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+convia                   2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+estudo de viabilidade    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+alinhamento matriz do pro1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 24 mins (100.0%)
+
+✍️ 41,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 42,468,575 Input Tokens, 3,363,947 Output Tokens
+
+💵 $548.99 Estimated AI Cost This Week
+
+🧠 34 AI Sessions, 322 AI Prompts
+
+Opus                     32,941 lines        ███████████████████░░░░░░   75.88 % 
+Sonnet                   9,345 lines         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+DeepSeek                 658 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Haiku                    468 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 771 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -186,7 +255,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domingos-Jr17/Domingos-Jr17/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 03:49:09 UTC
+ Last Updated on 28/10/2026 04:05:26 UTC
 <!--END_SECTION:waka-->
 
 ---
