@@ -12,12 +12,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Validate WakaTime secret
+        shell: bash
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "WAKATIME_API_KEY is not set. Skipping WakaTime update."
+            exit 0
+          fi
+
+          echo "WakaTime secret is configured. Verify the value matches a valid WakaTime API key from https://wakatime.com/settings/account"
+
+      - name: Update README with WakaTime stats
+        if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Prefer a PAT (repo + user scope) for cross-repo commit stats;
-          # fall back to the workflow token so the job can still push.
-          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "False"
