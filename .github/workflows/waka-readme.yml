@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     steps:
       - name: Validate WakaTime secret
         shell: bash
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           if [ -z "$WAKATIME_API_KEY" ]; then
             echo "WAKATIME_API_KEY is not set. Skipping WakaTime update."
@@ -25,7 +25,8 @@ jobs:
           echo "WakaTime secret is configured. Verify the value matches a valid WakaTime API key from https://wakatime.com/settings/account"
 
       - name: Update README with WakaTime stats
-        if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        # secrets.* is not allowed in `if`, so check the env copy instead
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
